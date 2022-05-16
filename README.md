@@ -6,7 +6,7 @@
 
 Несколько месяцев я училась в Школе 21 в москве, а затем решила пойти своим путем и начала изучать Фронтенд разработку.
 Я успешно прошла курсы, а затем стала курировать там студентов, параллельно начала брать проекты на фрилансе. 
-Одним из самых сложных проектов был паззл для корпоративного мероприятия ДИТ СиБ Сбера. [Проект и описание]()
+Одним из самых сложных проектов был паззл для корпоративного мероприятия ДИТ СиБ Сбера. [Проект и описание](https://github.com/romanovariya/sber_puzzle)
 
 Другие проекты: 
 
@@ -26,7 +26,7 @@
 
 I've studied a couple months at School 21 in Moscow and then decided to learn Frontend development. 
 I took some courses, then worked as a course assistant to practice and began making some projects on freelance.
-One of the hardest project was puzzle/quest for for corporate event in SBER DITSIB.[Project and description]()
+One of the hardest project was puzzle/quest for for corporate event in SBER DITSIB.[Project and description](https://github.com/romanovariya/sber_puzzle)
 
 Other projects: 
 
