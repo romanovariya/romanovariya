@@ -11,8 +11,11 @@
 Другие проекты: 
 
 [Интернет-магазин ТВОЙ ХЛОПОК](https://tvoy-hlopok.ru/) [Код проекта](https://github.com/romanovariya/website-cotton)
+
 [Портфолио стилиста-визажиста](https://helga-polyukh.ru/)
+
 [Цветочный магазин](https://oasismsk.ru/)
+
 [Каталог для оптового продавца](https://juteopt.ru/)
 
 
@@ -30,7 +33,10 @@ One of the hardest project was puzzle/quest for for corporate event in SBER DITS
 Other projects: 
 
 [Online shop](https://tvoy-hlopok.ru/) [code](https://github.com/romanovariya/website-cotton)
+
 [MakeUp artist portfolio](https://helga-polyukh.ru/)
+
 [Flower shop](https://oasismsk.ru/)
+
 [Catalog for shop](https://juteopt.ru/)
 
